@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaranFireGame", "KaranFireGame\KaranFireGame.csproj", "{2BD2BEAB-E009-4813-B7D3-85475A649628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaranFireGameTests", "KaranFireGameTests\KaranFireGameTests.csproj", "{DFF33076-5AA7-4E9A-BA1A-DF5C3F2B1A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD2BEAB-E009-4813-B7D3-85475A649628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD2BEAB-E009-4813-B7D3-85475A649628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD2BEAB-E009-4813-B7D3-85475A649628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD2BEAB-E009-4813-B7D3-85475A649628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF33076-5AA7-4E9A-BA1A-DF5C3F2B1A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF33076-5AA7-4E9A-BA1A-DF5C3F2B1A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF33076-5AA7-4E9A-BA1A-DF5C3F2B1A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF33076-5AA7-4E9A-BA1A-DF5C3F2B1A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF031B1B-F7E0-4AFE-A2C3-BEAE4B607965}
+	EndGlobalSection
+EndGlobal
